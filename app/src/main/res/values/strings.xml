@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FckScan</string>
+
+<!-- Strings related to MainActivity-->
+    <string name="scan_barcode_button">Escanear codigo</string>
+    <string name="no_barcode_captured">Codigo no capturado</string>
+    <string name="barcode_error_format">"Error leyendo el codigo: %1$s"</string>
+
+    <!-- Strings related to barcode scanner -->
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">El acceso a la camara es negado para detección</string>
+    <string name="no_camera_permission">Esta aplicación no puede ejecutarse porque no tiene permisos para usar la camara.  La aplicacación se cerrara.</string>
+    <string name="low_storage_error">Dependencias para deteccion de rostros no puede descargarse por espacio de almacenamiento insuficiente </string>
+</resources>
